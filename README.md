@@ -1,6 +1,6 @@
 # Germany vs Belgium vs Netherlands vs Switzerland: whose trains are late?
 
-The analysis behind the video [Is Deutsche Bahn Really That Bad? I Checked 242 Million Train Arrivals]([video link])
+The analysis behind the video [Is Deutsche Bahn Really That Bad? I Checked 242 Million Train Arrivals]([https://youtu.be/GFD3X3TqrLM])
 
 Every railway grades itself with its own rules. Switzerland counts a train as on time if it's
 less than 3 minutes late, Germany and Belgium under 6, Romania under 20. Most only check the
